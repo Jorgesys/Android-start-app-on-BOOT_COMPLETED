@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Startup app</string>
+    <string name="initial_message"><![CDATA[This app starts when you connect (ACTION_POWER_CONNECTED) or turn on completely (ACTION_POWER_CONNECTED) your <font color="#00FF00">Android</font> device!!!]]></string>
+</resources>
